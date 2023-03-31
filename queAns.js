@@ -5,3 +5,5 @@ class queAns {
     this.score = score;
   }
 }
+
+module.exports = { queAns };

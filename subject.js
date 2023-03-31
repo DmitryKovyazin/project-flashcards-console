@@ -5,3 +5,5 @@ class Subject {
     this.maxScore = maxScore;
   }
 }
+
+module.exports = { Subject };
